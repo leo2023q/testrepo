@@ -1,0 +1,11 @@
+.nav_ppl{
+    background-color: rgb(96, 235, 96);
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.nav_ppl a{
+    color: white;
+    text-decoration: none;    
+}
